@@ -1,0 +1,6 @@
+{
+  "name": "AIC Kamoiywo Church",
+  "description": "Official website for AIC Kamoiywo Church (Africa Inland Church Kenya, Nandi County) featuring live service countdowns, audio sermons, M-Pesa giving, ministries, prayer requests, and event calendar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
